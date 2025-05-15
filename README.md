@@ -1,4 +1,4 @@
-# CodeCapture
+# QRSwift
 A QR code scanner
 
 
